@@ -1,5 +1,5 @@
 # HTML Portfolio Project
-Weblink:https://abhiisshek1.github.io/html-repository/
+Weblink:https://abhiisshek1.github.io/html-portfolio/
 A simple multi-page HTML portfolio website.
 
 ## Overview
